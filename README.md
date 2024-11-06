@@ -32,4 +32,30 @@ CREATE TABLE request (
          FOREIGN KEY (requester_id) REFERENCES register(id) ON DELETE CASCADE
      );
 
+EC2 Commands(use this commands only the first time when accessing the EC2)
 
+sudo yum update -y
+
+sudo yum install python3 -y
+
+sudo yum install python3-pip -y
+
+sudo pip3 install virtualenv
+
+python3 -m venv venv
+
+source venv/bin/activate
+
+pip install flask
+
+sudo yum install git -y
+
+git clone <your repositorie link>
+
+cd <your repository name>
+
+pip install mysql-connector-python
+
+pip install -r requirements.txt
+
+python app.py 
