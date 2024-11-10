@@ -57,3 +57,24 @@ cd <your repository name>
 pip install mysql-connector-python
 
 python app.py 
+
+
+
+
+https://github.com/user-attachments/assets/c279d518-ce56-4ac4-97f7-e0df6e1d5d64
+
+
+
+
+https://github.com/user-attachments/assets/39163397-833d-4427-bfb8-a5e434f5cdaa
+
+
+
+
+https://github.com/user-attachments/assets/8a4d59c2-c077-48f7-9b95-003f4f981347
+
+
+
+
+https://github.com/user-attachments/assets/28d51fab-1487-40a8-9563-e80f858a1400
+
