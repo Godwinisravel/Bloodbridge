@@ -63,14 +63,14 @@ python app.py
 
 
 
-![Instance_creation](https://github.com/user-attachments/assets/e7fc06e7-60ce-496d-bac6-b036e0d39fa2)
+![Instance_creation] (https://github.com/user-attachments/assets/e7fc06e7-60ce-496d-bac6-b036e0d39fa2)
 
 
-![Bloodbridge_link](https://github.com/user-attachments/assets/17de3f83-e1c4-453f-9fea-9857dc4d3f11)
+![Bloodbridge_link] (https://github.com/user-attachments/assets/17de3f83-e1c4-453f-9fea-9857dc4d3f11)
 
 
 
-![Application_creation](https://github.com/user-attachments/assets/ca7b44b2-77c9-43d7-ae87-c67f835055cb)
+![Application_creation] (https://github.com/user-attachments/assets/ca7b44b2-77c9-43d7-ae87-c67f835055cb)
 
 
 
