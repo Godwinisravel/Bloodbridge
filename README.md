@@ -60,7 +60,7 @@ python app.py
 
 
 
-## AWS console 
+## AWS console demo video
 
 https://github.com/user-attachments/assets/c279d518-ce56-4ac4-97f7-e0df6e1d5d64
 
